@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_color">#2E2F33</color>
+    <color name="secondary_color">#1F1F1F</color>
+
+    <color name="main_text_color">#E3E3E3</color>
+    <color name="secondary_text_color">#C4C7C5</color>
+
+    <color name="blue_color">#A3CAFB</color>
+    <color name="light_gray_color">#454545</color>
+
+</resources>

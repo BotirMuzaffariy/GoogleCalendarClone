@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="NavTextAppearance">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/main_text_color</item>
+    </style>
+
+    <style name="CalendarDateAppearance">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@drawable/calendar_date_color</item>
+    </style>
+
+</resources>

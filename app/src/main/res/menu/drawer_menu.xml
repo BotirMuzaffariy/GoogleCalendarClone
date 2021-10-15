@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/m_item1"
+            android:icon="@drawable/ic_calendar_agenda"
+            android:title="@string/tv_schedule" />
+
+        <item
+            android:id="@+id/m_item2"
+            android:icon="@drawable/ic_calendar_day"
+            android:title="@string/tv_day" />
+
+        <item
+            android:id="@+id/m_item3"
+            android:icon="@drawable/ic_calendar_3_day"
+            android:title="@string/tv_3_days" />
+
+        <item
+            android:id="@+id/m_item4"
+            android:icon="@drawable/ic_calendar_week"
+            android:title="@string/tv_week" />
+
+        <item
+            android:id="@+id/m_item5"
+            android:icon="@drawable/ic_calendar_month"
+            android:title="@string/tv_month" />
+    </group>
+
+    <item
+        android:id="@+id/m_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/tv_settings" />
+
+    <item
+        android:id="@+id/m_help"
+        android:icon="@drawable/ic_help"
+        android:title="@string/tv_help_and_feedback" />
+
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/calendar_date_color.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_arrow_down.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_3_day.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_day.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_day_mode.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_month.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_today.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_calendar_week.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_google_calendar_logo.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_google_text.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_help.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_menu.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_more.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_search.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/drawable/ic_settings.xml" value="0.2273148148148148" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/layout/activity_main.xml" value="0.21296296296296297" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/layout/activity_splash.xml" value="0.21296296296296297" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/layout/drawer_header.xml" value="0.21296296296296297" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/layout/item_calendar.xml" value="0.21296296296296297" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/layout/nav_header.xml" value="0.21296296296296297" />
+        <entry key="..\:/# LyCr #/Android Loyihalar/=KOTLIN=/Google Calendar clone/app/src/main/res/menu/drawer_menu.xml" value="0.21296296296296297" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

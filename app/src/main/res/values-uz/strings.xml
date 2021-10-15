@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Taqvim klon</string>
+
+    <string name="tv_calendar">Taqvim</string>
+    <string name="tv_schedule">Kun tartibi</string>
+    <string name="tv_day">Kun</string>
+    <string name="tv_3_days">3 kun</string>
+    <string name="tv_week">Hafta</string>
+    <string name="tv_month">Oy</string>
+    <string name="tv_settings">Sozlamalar</string>
+    <string name="tv_help_and_feedback">Yordam/fikr-mulohaza</string>
+
+</resources>

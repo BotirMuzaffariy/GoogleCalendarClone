@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Google Calendar clone</string>
+
+    <string name="tv_calendar">Calendar</string>
+    <string name="tv_schedule">Schedule</string>
+    <string name="tv_day">Day</string>
+    <string name="tv_3_days">3 days</string>
+    <string name="tv_week">Week</string>
+    <string name="tv_month">Month</string>
+    <string name="tv_settings">Settings</string>
+    <string name="tv_help_and_feedback">Help &amp; feedback</string>
+
+</resources>
